@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 🌍 Based in **Indonesia**
-💼 **Full Stack Web Developer**
+💼 **Web Developer**
 🚀 Passionate about building clean and elegant web applications
 🌐 Portfolio: [portofolio-rio-ruddy.vercel.app](https://portofolio-rio-ruddy.vercel.app/)
 📬 Always open for collaboration and new opportunities
