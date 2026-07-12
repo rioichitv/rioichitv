@@ -14,32 +14,11 @@
 
 ## 👨‍💻 About Me
 
-```php
-<?php
-
-class RioPratamaPutra extends Developer
-{
-    public string $name     = "Rio Pratama Putra";
-    public string $role     = "Full Stack Web Developer";
-    public string $location = "Indonesia 🇮🇩";
-    public string $website  = "https://riostore.id";
-
-    public array $currentlyBuilding = [
-        "Sistem Inventaris Barang IT",
-        "Web Application Development",
-    ];
-
-    public array $skills = [
-        "Backend"  => ["PHP", "Laravel", "MySQL"],
-        "Frontend" => ["HTML", "CSS", "Bootstrap 5", "JavaScript"],
-        "Tools"    => ["Git", "GitHub", "Laragon", "VS Code"],
-    ];
-
-    public function hobbies(): array {
-        return ["Coding 💻", "Building Projects 🚀", "Learning New Tech 📚"];
-    }
-}
-```
+🌍 Based in **Indonesia**
+💼 **Full Stack Web Developer**
+🚀 Passionate about building clean and elegant web applications
+🌐 Portfolio: [portofolio-rio-ruddy.vercel.app](https://portofolio-rio-ruddy.vercel.app/)
+📬 Always open for collaboration and new opportunities
 
 ---
 
@@ -62,33 +41,7 @@ class RioPratamaPutra extends Developer
 
 ---
 
-## 🚀 Featured Project
-
-<div align="center">
-
-[![Inventaris IT](https://github-readme-stats.vercel.app/api/pin/?username=rioichitv&repo=inventarisbarangwithsmtp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6)](https://github.com/rioichitv/inventarisbarangwithsmtp)
-
-</div>
-
-### 📦 Sistem Inventaris Barang IT
-> Sistem manajemen inventaris aset perangkat IT berbasis web
-
-**Stack:** `Laravel 12` · `Bootstrap 5` · `MySQL` · `OTP Email`
-
-| Fitur | Status |
-|-------|--------|
-| CRUD Data Barang + Foto & Dokumen | ✅ |
-| Pencatatan Barang Keluar (stok otomatis) | ✅ |
-| Login dengan OTP via Email | ✅ |
-| Log Aktivitas Admin | ✅ |
-| Dashboard Statistik Real-time | ✅ |
-| Landing Page Publik | ✅ |
-
-🌐 **Live Demo:** [riostore.id](https://riostore.id)
-
----
-
-## 📊 GitHub Stats
+## � GitHub Stats
 
 <div align="center">
 
@@ -105,11 +58,23 @@ class RioPratamaPutra extends Developer
 
 ---
 
-## 🌐 Connect
+## 🐍 Contribution Graph
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-riostore.id-3b2db5?style=for-the-badge)](https://riostore.id)
+![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-3b2db5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portofolio-rio-ruddy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rio_Pratama_Putra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/rio-pratama-putra-a62094308)
+[![Instagram](https://img.shields.io/badge/Instagram-@raizo002-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raizo002)
 [![GitHub](https://img.shields.io/badge/GitHub-rioichitv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rioichitv)
 
 </div>
